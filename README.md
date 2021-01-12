@@ -1,4 +1,4 @@
-# QR-Code-Scanner
+# OPENCV_detect_QR_gennerate_ppm
 
 """"
 LINUX
